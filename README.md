@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amandeepthakur
-- 👀 I’m interested in Android Development
+- 👀 I’m interested in Mobile Application Development
 - 🌱 I’m currently learning Data Science
 
 
